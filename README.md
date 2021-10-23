@@ -2,8 +2,15 @@
   <img src="https://resume.sevcik.dev/_next/image?url=%2Flogo.svg&w=640&q=75" width="250px" >
   <h1>Ahoj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ondrej Sevcik</h1>
   <h2>Full Stack Splunk, React and (to be) Blockchain Developer</h2>
+  <div>
+    <a href=""><img src="https://resume.sevcik.dev/_next/image?url=%2Ficons%2Flinkedin.svg&w=3840&q=75" width="35px"></a>
+    <span>&nbsp</span>
+    <a href=""><img src="<img src="https://img.icons8.com/ios/35/FFFFFF/domain.png"width="35px"></a>
+    <span>&nbsp</span>
+    <a href=""><img src="https://resume.sevcik.dev/_next/image?url=%2Ficons%2Fstackoverflow.svg&w=3840&q=75"width="35px"></a>
+  </div>
 
-> “Develop a passion for learning. If you do, you will never cease to grow.” – Anthony J. D’Angelo
+  > “Develop a passion for learning. If you do, you will never cease to grow.” – Anthony J. D’Angelo
 
 The curiousity to learn new things is what drives me every day.
 

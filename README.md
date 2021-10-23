@@ -2,13 +2,6 @@
   <img src="https://resume.sevcik.dev/_next/image?url=%2Flogo.svg&w=640&q=75" width="250px" >
   <h1>Ahoj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ondrej Sevcik</h1>
   <h2>Full Stack Splunk, React and (to be) Blockchain Developer</h2>
-  <div>
-    <a href=""><img src="https://resume.sevcik.dev/_next/image?url=%2Ficons%2Flinkedin.svg&w=3840&q=75" width="35px"></a>
-    <span>&nbsp</span>
-    <a href=""><img src="<img src="https://img.icons8.com/ios/35/000000/domain.png"width="35px"></a>
-    <span>&nbsp</span>
-    <a href=""><img src="https://resume.sevcik.dev/_next/image?url=%2Ficons%2Fstackoverflow.svg&w=3840&q=75"width="35px"></a>
-  </div>
 
   > “Develop a passion for learning. If you do, you will never cease to grow.” – Anthony J. D’Angelo
 
@@ -20,7 +13,7 @@ I've started by creating mobile apps, later shifted my focus towards web apps, t
 
 In 2021, I've deep dived into the crypto world, not just into a trading but I've learned about crypto history, fundamentals and core functionality. Now, I am learning about development of dApps, web3 and smart contracts.
 
-  <a href="https://resume.sevcik.dev" style="padding: '10px 20px'; background-color: 'blue';">resume.sevcik.dev</a>
+  <a href="https://resume.sevcik.dev" style="padding: '10px 20px'; background-color: 'blue';"><img src="resumelink.svg" ></a>
   
 
 </div>

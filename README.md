@@ -5,7 +5,7 @@
   <div>
     <a href=""><img src="https://resume.sevcik.dev/_next/image?url=%2Ficons%2Flinkedin.svg&w=3840&q=75" width="35px"></a>
     <span>&nbsp</span>
-    <a href=""><img src="<img src="https://img.icons8.com/ios/35/FFFFFF/domain.png"width="35px"></a>
+    <a href=""><img src="<img src="https://img.icons8.com/ios/35/000000/domain.png"width="35px"></a>
     <span>&nbsp</span>
     <a href=""><img src="https://resume.sevcik.dev/_next/image?url=%2Ficons%2Fstackoverflow.svg&w=3840&q=75"width="35px"></a>
   </div>
